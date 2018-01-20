@@ -8,6 +8,7 @@ width:960px;}
     font-family: Arial;
     margin: 1%;
     padding: 20px;
+    font-size:18px;
 }
 
 section { margin:1%;
@@ -16,73 +17,39 @@ background-color: #ebebeb;
 width:50%;
 float:left;
 text-align: center;
-color:#777;}
+color:#777;
+font-size: 18px;
+}
 
 #header {background-color: #ebebeb;
 padding: 20px;
 margin: 15px;
 text-align: center;
-color:#777;}
+color:#777;
+font-size: 18px;}
 
 #p {background-color: #ebebeb;
 padding: 20px;
 margin: 15px;
 text-align: center;
-color:#777;}
+color:#777;
+font-size: 18px;}
 
 
 article {background-color: #777;
 padding:15px;
 margin: 15px;
-color:#ebebeb;}
+color:#ebebeb;
+font-size: 18px;}
 
 aside {background-color: #ebebeb;
 margin:1%;
 padding: 50px;
 float:left;
 width:30%;
-height:213px;
+height:218px;
 text-align: center;
-color:#777;}
+color:#777;
+font-size: 18px;}
 
 footer {clear: left;}
-
-
-
-
- 	background-color: #ebebeb;
- 	background-color: #ebebeb;
- 	margin: 20px;
- 	margin: 20px;
- 	padding: 15px;
- 	padding: 15px;}
- 
- 
- }
-.class1 background-color: #ebebeb;
-
-aside  background-color: #ebebeb;
-background-color: #ebebeb;
-body  background-color: #777;
-color: #777;
-color: #777;
-color: #777;
-color: white;
-float: left;
-float:left;
-font-family: Arial
-font-family: Arial;
-font-family: Arial;
-font: Arial 
-footer clear: left;
-margin: 1%;
-margin: 1%;
-padding: 10px;}
-padding: 20px;
-padding: 20px; 
-padding: 40px;
-section  margin: 10px;
-text-align: center;
-text-align: center;
-width: 50%;
-width: 960px;
