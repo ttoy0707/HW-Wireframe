@@ -2,13 +2,13 @@ body {background-color: #777;
 width:960px;}
 
 .class1 {
-    background-color: #ebebeb;
-    text-align: center;
-    color: #777;
-    font-family: Arial;
-    margin: 1%;
-    padding: 20px;
-    font-size:18px;
+background-color: #ebebeb;
+text-align: center;
+color: #777;
+font-family: Arial;
+margin: 1%;
+padding: 20px;
+font-size:18px;
 }
 
 section { margin:1%;
@@ -19,6 +19,7 @@ float:left;
 text-align: center;
 color:#777;
 font-size: 18px;
+font-family: Arial;
 }
 
 #header {background-color: #ebebeb;
@@ -26,30 +27,34 @@ padding: 20px;
 margin: 15px;
 text-align: center;
 color:#777;
-font-size: 18px;}
+font-size: 18px;
+font-family: Arial;}
 
 #p {background-color: #ebebeb;
 padding: 20px;
 margin: 15px;
 text-align: center;
 color:#777;
-font-size: 18px;}
+font-size: 18px;
+font-family: Arial;}
 
 
 article {background-color: #777;
 padding:15px;
 margin: 15px;
 color:#ebebeb;
-font-size: 18px;}
+font-size: 18px;
+font-family: Arial;}
 
 aside {background-color: #ebebeb;
 margin:1%;
 padding: 50px;
 float:left;
-width:30%;
+width:291px;
 height:218px;
 text-align: center;
 color:#777;
-font-size: 18px;}
+font-size: 18px;
+font-family: Arial;}
 
 footer {clear: left;}
